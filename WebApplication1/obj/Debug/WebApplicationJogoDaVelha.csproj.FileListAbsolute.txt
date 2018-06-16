@@ -1,0 +1,15 @@
+G:\Estudos\testeweb\WebApplication1\WebApplication1\bin\ProjetoJogoDaVelha.Dominio.dll
+G:\Estudos\testeweb\WebApplication1\WebApplication1\bin\ProjetoJogoDaVelha.Dominio.pdb
+G:\Estudos\testeweb\WebApplication1\WebApplication1\obj\Debug\WebApplicationJogoDaVelha.csprojResolveAssemblyReference.cache
+G:\Estudos\testeweb\WebApplication1\WebApplication1\bin\WebApplication1.dll
+G:\Estudos\testeweb\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+G:\Estudos\testeweb\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+G:\Estudos\testeweb\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Henrique\Downloads\WebApplicationJogoDaVelha\WebApplicationJogoDaVelha\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Henrique\Downloads\WebApplicationJogoDaVelha\WebApplicationJogoDaVelha\WebApplication1\bin\WebApplication1.dll
+C:\Users\Henrique\Downloads\WebApplicationJogoDaVelha\WebApplicationJogoDaVelha\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Henrique\Downloads\WebApplicationJogoDaVelha\WebApplicationJogoDaVelha\WebApplication1\bin\ProjetoJogoDaVelha.Dominio.dll
+C:\Users\Henrique\Downloads\WebApplicationJogoDaVelha\WebApplicationJogoDaVelha\WebApplication1\bin\ProjetoJogoDaVelha.Dominio.pdb
+C:\Users\Henrique\Downloads\WebApplicationJogoDaVelha\WebApplicationJogoDaVelha\WebApplication1\obj\Debug\WebApplicationJogoDaVelha.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Downloads\WebApplicationJogoDaVelha\WebApplicationJogoDaVelha\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Henrique\Downloads\WebApplicationJogoDaVelha\WebApplicationJogoDaVelha\WebApplication1\obj\Debug\WebApplication1.pdb

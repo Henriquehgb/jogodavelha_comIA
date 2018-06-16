@@ -1,0 +1,7 @@
+G:\Estudos\testeweb\WebApplication1\WebApplication1\bin\WebApplication1.dll
+G:\Estudos\testeweb\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+G:\Estudos\testeweb\WebApplication1\WebApplication1\bin\ProjetoJogoDaVelha.Dominio.dll
+G:\Estudos\testeweb\WebApplication1\WebApplication1\bin\ProjetoJogoDaVelha.Dominio.pdb
+G:\Estudos\testeweb\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+G:\Estudos\testeweb\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+G:\Estudos\testeweb\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

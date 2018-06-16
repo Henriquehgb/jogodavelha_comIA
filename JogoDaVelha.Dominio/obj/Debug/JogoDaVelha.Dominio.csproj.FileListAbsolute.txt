@@ -1,0 +1,4 @@
+G:\Estudos\testeweb\WebApplication1\JogoDaVelha.Dominio\bin\Debug\JogoDaVelha.Dominio.dll
+G:\Estudos\testeweb\WebApplication1\JogoDaVelha.Dominio\bin\Debug\JogoDaVelha.Dominio.pdb
+G:\Estudos\testeweb\WebApplication1\JogoDaVelha.Dominio\obj\Debug\JogoDaVelha.Dominio.dll
+G:\Estudos\testeweb\WebApplication1\JogoDaVelha.Dominio\obj\Debug\JogoDaVelha.Dominio.pdb

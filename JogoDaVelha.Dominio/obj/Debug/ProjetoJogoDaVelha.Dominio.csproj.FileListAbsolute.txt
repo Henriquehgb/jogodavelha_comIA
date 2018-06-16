@@ -1,0 +1,9 @@
+G:\Estudos\testeweb\WebApplication1\JogoDaVelha.Dominio\bin\Debug\ProjetoJogoDaVelha.Dominio.dll
+G:\Estudos\testeweb\WebApplication1\JogoDaVelha.Dominio\bin\Debug\ProjetoJogoDaVelha.Dominio.pdb
+G:\Estudos\testeweb\WebApplication1\JogoDaVelha.Dominio\obj\Debug\ProjetoJogoDaVelha.Dominio.dll
+G:\Estudos\testeweb\WebApplication1\JogoDaVelha.Dominio\obj\Debug\ProjetoJogoDaVelha.Dominio.pdb
+C:\Users\Henrique\Downloads\WebApplicationJogoDaVelha\WebApplicationJogoDaVelha\JogoDaVelha.Dominio\bin\Debug\ProjetoJogoDaVelha.Dominio.dll
+C:\Users\Henrique\Downloads\WebApplicationJogoDaVelha\WebApplicationJogoDaVelha\JogoDaVelha.Dominio\bin\Debug\ProjetoJogoDaVelha.Dominio.pdb
+C:\Users\Henrique\Downloads\WebApplicationJogoDaVelha\WebApplicationJogoDaVelha\JogoDaVelha.Dominio\obj\Debug\ProjetoJogoDaVelha.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Downloads\WebApplicationJogoDaVelha\WebApplicationJogoDaVelha\JogoDaVelha.Dominio\obj\Debug\ProjetoJogoDaVelha.Dominio.dll
+C:\Users\Henrique\Downloads\WebApplicationJogoDaVelha\WebApplicationJogoDaVelha\JogoDaVelha.Dominio\obj\Debug\ProjetoJogoDaVelha.Dominio.pdb
